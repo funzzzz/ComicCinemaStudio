@@ -67,7 +67,7 @@ dependencies {
     implementation("com.google.mlkit:text-recognition:16.0.1")
     
     // FFmpeg Kit (جاهز، لا يحتاج NDK)
-    implementation("dev.ffmpegkit-maintained:ffmpeg-kit-full:8.1.7")
+    implementation("com.arthenica:mobile-ffmpeg-full:4.4")
     
     // Coroutines
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
